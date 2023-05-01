@@ -458,9 +458,7 @@ body {
 .footer-social-link:focus {
   background-color: var(--color-success);
 }
-.subscribe-footer {
-  justify-content: flex-end;
-}
+
 .subscribe-footer-text {
   margin-bottom: 16px;
   font-weight: 500;
