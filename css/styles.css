@@ -796,6 +796,9 @@ body {
 .modal-form-check:focus + .modal-form-check-desc::before {
   outline: auto;
 }
+.policy-link {
+  color: var(--color-primary-brand);
+}
 .modal-form-btn {
   min-width: 169px;
   min-height: 56px;
