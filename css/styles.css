@@ -499,6 +499,7 @@ body {
 .subscribe-form-btn {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 16px;
   min-width: 165px;
   min-height: 40px;
